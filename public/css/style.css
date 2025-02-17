@@ -47,7 +47,7 @@
   }
   
   .product-item:hover {
-
+    border: solid black 2px;
   }
   
   .inner-image img {
